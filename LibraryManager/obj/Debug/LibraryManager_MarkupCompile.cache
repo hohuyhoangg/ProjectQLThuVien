@@ -1,0 +1,20 @@
+﻿LibraryManager
+
+
+winexe
+C#
+.cs
+D:\NAM 2\Kì I\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\
+LibraryManager
+none
+false
+DEBUG;TRACE
+D:\NAM 2\Kì I\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\App.xaml
+23437955774
+
+64-1046534727
+24-1354084062
+AddBookCategoryWindow.xaml;AddBookItemWindow.xaml;AddPersonWindow.xaml;CustomUserControl\AccountSetttingUC.xaml;CustomUserControl\BookCategoryManagerUC.xaml;CustomUserControl\BookManagerUC.xaml;CustomUserControl\BorrowBookUC.xaml;CustomUserControl\ControlBarUC.xaml;CustomUserControl\LibrarianManagerUC.xaml;CustomUserControl\ListBookBorrowUC.xaml;CustomUserControl\MemberManagerUC.xaml;CustomUserControl\ReturnBookUC.xaml;InputIdPerSonWindow.xaml;KBox\KChangePasswordBox.xaml;KBox\KInputBox.xaml;KBox\KMessageBox.xaml;LibrarianWindow.xaml;LoginWindow.xaml;MainWindow.xaml;MemberWindow.xaml;ResourceXAML\MainResource.xaml;StatisticBookWindow.xaml;UpdateBookItemWindow.xaml;
+
+True
+

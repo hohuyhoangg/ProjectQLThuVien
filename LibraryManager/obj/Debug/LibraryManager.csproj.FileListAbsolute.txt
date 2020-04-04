@@ -1,0 +1,324 @@
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csprojAssemblyReference.cache
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\ControlBarUC.g.cs
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\MainWindow.g.cs
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\LibraryManager_MarkupCompile.cache
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\LibraryManager_MarkupCompile.lref
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe.config
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\bin\Debug\LibraryManager.pdb
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\bin\Debug\MaterialDesignColors.dll
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\bin\Debug\System.Windows.Interactivity.dll
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\bin\Debug\MaterialDesignColors.pdb
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\bin\Debug\System.Windows.Interactivity.xml
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\App.g.cs
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\App.baml
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\ControlBarUC.baml
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\MainWindow.baml
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\ResourceXAML\MainResource.baml
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\LibraryManager.g.resources
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\LibraryManager.Properties.Resources.resources
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.GenerateResource.cache
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.CopyComplete
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\LibraryManager.exe
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\LibraryManager.pdb
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\LibrarianManagerUC.g.cs
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\MemberManagerUC.g.cs
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\LibrarianManagerUC.baml
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\MemberManagerUC.baml
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\LoginWindow.g.cs
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\LoginWindow.baml
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\bin\Debug\EPPlus.dll
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\bin\Debug\EPPlus.xml
+E:\ProgrammingProject\Test\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.ResolveComReference.cache
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe.config
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\bin\Debug\LibraryManager.pdb
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\bin\Debug\EPPlus.dll
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\bin\Debug\MaterialDesignColors.dll
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\bin\Debug\EPPlus.xml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\bin\Debug\MaterialDesignColors.pdb
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csprojAssemblyReference.cache
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.ResolveComReference.cache
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\ControlBarUC.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\LibrarianManagerUC.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\MemberManagerUC.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\LibrarianWindow.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\LoginWindow.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\MainWindow.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\MemberWindow.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\App.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\LibraryManager_MarkupCompile.cache
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\LibraryManager_MarkupCompile.lref
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\App.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\ControlBarUC.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\LibrarianManagerUC.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\MemberManagerUC.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\LoginWindow.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\MainWindow.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\LibrarianWindow.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\MemberWindow.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\LibraryManager.g.resources
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\LibraryManager.Properties.Resources.resources
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.GenerateResource.cache
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.CopyComplete
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\LibraryManager.exe
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\LibraryManager.pdb
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\BookManagerUC.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\BookManagerUC.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\InputIdPerSonWindow.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\InputIdPerSonWindow.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\BorrowBookUC.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\BorrowBookUC.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\AccountSetttingUC.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\AccountSetttingUC.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\ReturnBookUC.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\ReturnBookUC.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\AddBookItemWindow.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\AddBookItemWindow.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\AddBookCategoryWindow.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\AddBookCategoryWindow.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\StatisticBookWindow.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\StatisticBookWindow.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\UpdateBookItemWindow.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\UpdateBookItemWindow.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\AddPersonWindow.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\AddPersonWindow.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe.config
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\bin\Debug\LibraryManager.pdb
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\bin\Debug\EPPlus.dll
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\bin\Debug\MaterialDesignColors.dll
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\bin\Debug\EPPlus.xml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\bin\Debug\MaterialDesignColors.pdb
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csprojAssemblyReference.cache
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.ResolveComReference.cache
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\AddBookCategoryWindow.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\AddBookItemWindow.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\AddPersonWindow.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\AccountSetttingUC.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\BookManagerUC.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\BorrowBookUC.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\ControlBarUC.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\LibrarianManagerUC.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\MemberManagerUC.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\ReturnBookUC.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\InputIdPerSonWindow.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\LibrarianWindow.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\LoginWindow.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\MainWindow.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\MemberWindow.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\StatisticBookWindow.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\UpdateBookItemWindow.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\App.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\LibraryManager_MarkupCompile.cache
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\LibraryManager_MarkupCompile.lref
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\App.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\AddBookCategoryWindow.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\AddBookItemWindow.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\AddPersonWindow.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\AccountSetttingUC.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\BookManagerUC.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\BorrowBookUC.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\ControlBarUC.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\LibrarianManagerUC.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\MemberManagerUC.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\ReturnBookUC.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\InputIdPerSonWindow.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\LibrarianWindow.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\LoginWindow.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\MainWindow.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\MemberWindow.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\StatisticBookWindow.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\UpdateBookItemWindow.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\LibraryManager.g.resources
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\LibraryManager.Properties.Resources.resources
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.GenerateResource.cache
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.CopyComplete
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\LibraryManager.exe
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\LibraryManager.pdb
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\BookCategoryManagerUC.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\BookCategoryManagerUC.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\KBox\KMessageBox.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\KBox\KMessageBox.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\KBox\KInputBox.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\KBox\KInputBox.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\ListBookBorrowUC.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\ListBookBorrowUC.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\BookCategoryManagerUC.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\ListBookBorrowUC.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\KBox\KInputBox.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\KBox\KMessageBox.g.cs
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\BookCategoryManagerUC.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\CustomUserControl\ListBookBorrowUC.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\KBox\KInputBox.baml
+C:\Users\quock\Desktop\Backup\LibraryManager\LibraryManager\obj\Debug\KBox\KMessageBox.baml
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\KBox\KChangePasswordBox.g.cs
+C:\Users\quock\Desktop\LibraryManager\LibraryManager\obj\Debug\KBox\KChangePasswordBox.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\bin\Debug\LibraryManager.exe.config
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\bin\Debug\LibraryManager.exe
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\bin\Debug\LibraryManager.pdb
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\bin\Debug\EPPlus.dll
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\bin\Debug\MaterialDesignColors.dll
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\bin\Debug\EPPlus.xml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\bin\Debug\MaterialDesignColors.pdb
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.csprojAssemblyReference.cache
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.csproj.ResolveComReference.cache
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\AddBookCategoryWindow.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\AddBookItemWindow.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\AddPersonWindow.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\AccountSetttingUC.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\BookCategoryManagerUC.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\BookManagerUC.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\BorrowBookUC.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\ControlBarUC.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\LibrarianManagerUC.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\ListBookBorrowUC.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\MemberManagerUC.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\ReturnBookUC.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\InputIdPerSonWindow.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\KBox\KChangePasswordBox.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\KBox\KInputBox.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\KBox\KMessageBox.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibrarianWindow.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LoginWindow.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\MainWindow.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\MemberWindow.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\StatisticBookWindow.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\UpdateBookItemWindow.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\App.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager_MarkupCompile.cache
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager_MarkupCompile.lref
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\App.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\AddBookCategoryWindow.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\AddBookItemWindow.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\AddPersonWindow.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\AccountSetttingUC.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\BookCategoryManagerUC.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\BookManagerUC.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\BorrowBookUC.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\ControlBarUC.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\LibrarianManagerUC.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\ListBookBorrowUC.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\MemberManagerUC.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\ReturnBookUC.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\InputIdPerSonWindow.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\KBox\KChangePasswordBox.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\KBox\KInputBox.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\KBox\KMessageBox.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibrarianWindow.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LoginWindow.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\MainWindow.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\MemberWindow.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\StatisticBookWindow.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\UpdateBookItemWindow.baml
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.g.resources
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.Properties.Resources.resources
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.csproj.GenerateResource.cache
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.csproj.CopyComplete
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.exe
+C:\Users\quock\Desktop\QuanLyThuVien_18110284_18110304\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.pdb
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\bin\Debug\LibraryManager.exe.config
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\bin\Debug\LibraryManager.exe
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\bin\Debug\LibraryManager.pdb
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\bin\Debug\EPPlus.dll
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\bin\Debug\MaterialDesignColors.dll
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\bin\Debug\System.Windows.Interactivity.dll
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\bin\Debug\EPPlus.xml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\bin\Debug\MaterialDesignColors.pdb
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\bin\Debug\System.Windows.Interactivity.xml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.csprojAssemblyReference.cache
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.csproj.ResolveComReference.cache
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\AddBookCategoryWindow.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\AddBookItemWindow.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\AddPersonWindow.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\AccountSetttingUC.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\BookCategoryManagerUC.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\BookManagerUC.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\BorrowBookUC.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\ControlBarUC.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\LibrarianManagerUC.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\ListBookBorrowUC.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\MemberManagerUC.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\ReturnBookUC.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\InputIdPerSonWindow.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\KBox\KChangePasswordBox.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\KBox\KInputBox.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\KBox\KMessageBox.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibrarianWindow.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LoginWindow.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\MainWindow.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\MemberWindow.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\StatisticBookWindow.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\UpdateBookItemWindow.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\App.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager_MarkupCompile.cache
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager_MarkupCompile.lref
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\App.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\AddBookCategoryWindow.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\AddBookItemWindow.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\AddPersonWindow.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\AccountSetttingUC.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\BookCategoryManagerUC.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\BookManagerUC.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\BorrowBookUC.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\ControlBarUC.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\LibrarianManagerUC.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\ListBookBorrowUC.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\MemberManagerUC.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\CustomUserControl\ReturnBookUC.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\InputIdPerSonWindow.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\KBox\KChangePasswordBox.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\KBox\KInputBox.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\KBox\KMessageBox.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibrarianWindow.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LoginWindow.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\MainWindow.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\MemberWindow.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\ResourceXAML\MainResource.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\StatisticBookWindow.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\UpdateBookItemWindow.baml
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.g.resources
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.Properties.Resources.resources
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.csproj.GenerateResource.cache
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.csproj.CopyComplete
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.exe
+D:\NAM 2\OOP_thayVINH\LibraryManager_C_Sharp\LibraryManager\obj\Debug\LibraryManager.pdb
